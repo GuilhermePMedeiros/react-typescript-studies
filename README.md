@@ -1,6 +1,6 @@
-# :computer:	Projeto de Estudos do React  :brazil: - BETA
+# :book: Projeto de Estudos do React  :brazil: - BETA
 
-- Sistema para escolas com JSF, Prime Faces, Hibernate outras tecnologias.
+Neste repositório será apresentado os arquivos de exercícios e estudos das tecnologias apresentadas.
 
 ## Tecnologias utilizadas:
 
